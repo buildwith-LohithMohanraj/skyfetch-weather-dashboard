@@ -162,4 +162,4 @@ WeatherApp.prototype.showError = function (message) {
     `;
 };
 
-const app = new WeatherApp("YOUR_API_KEY");
+const app = new WeatherApp("e18ea202c25b3a171c5ea14161252da8");
